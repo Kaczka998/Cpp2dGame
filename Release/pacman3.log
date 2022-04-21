@@ -1,0 +1,27 @@
+﻿  Brick.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Brick.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Brick.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Object.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Engine.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Engine.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Food.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Food.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Ghost.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Ghost.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  MainMenu.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\MainMenu.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\MainMenu.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Map.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Map.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Map.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Object.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Object.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Object.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  PacMan.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\PacMan.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Ghost.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  pacman3.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\pacman3.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Results.cpp
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Results.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Daniel\Desktop\pacman3\pacman3\pacman3\Results.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza

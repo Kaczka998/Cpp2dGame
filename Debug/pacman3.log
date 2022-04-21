@@ -1,0 +1,10 @@
+﻿  Object.cpp
+D:\pacman3\Object.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+D:\pacman3\Object.cpp(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'pacman/Object.h': No such file or directory
+  PacMan.cpp
+D:\pacman3\PacMan.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+D:\pacman3\Ghost.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Results.cpp
+D:\pacman3\Results.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+D:\pacman3\Results.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Generowanie kodu...
